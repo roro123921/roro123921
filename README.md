@@ -15,7 +15,7 @@ Interested in applying data science, machine learning, and analytics to solve re
 
 ## Projects
 
-### Customer Churn Analysis and Prediction - Ongoing
+### Customer Churn Analysis and Prediction 
 Machine learning project analysing customer behaviour and service data to predict churn risk. Includes data cleaning, exploratory data analysis, feature engineering, model development, evaluation, and business insights.
 
 ### Australian Energy Demand Forecasting
